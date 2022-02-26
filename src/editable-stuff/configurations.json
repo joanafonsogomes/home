@@ -1,0 +1,51 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "gradientColors": "#4169E1, #4682B4, #483D8B, #000080",
+  "FirstName": "Joana",
+  "MiddleName": "",
+  "LastName": "Afonso Gomes",
+  "devDesc": "Software engineering student at University of Minho",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/joanafonsogomes",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
+      "image": "fa-facebook",
+      "url": "https://www.facebook.com/joaana.gomees/",
+      "style": "socialicons"
+    },
+    {
+      "id": 2,
+      "image": "fa-instagram",
+      "url": "https://www.instagram.com/jooanagoomes/",
+      "style": "socialicons"
+    },
+    {
+      "id": 3,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/joana-afonso-gomes-b130751ba/",
+      "style": "socialicons"
+    }
+  ],
+  "aboutHeading": "About Me",
+  "imageSize": 375,
+  "heading": "About Me",
+  "showInstaProfilePic": true,
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "jooanagoomes",
+  "instaQuerry": "/?__a=1",
+  "aboutDescription": "From 2017 to this moment studying Software Engineering at University of Minho in Braga, Portugal. Currently developing my Masters dissertation on the development of a software system that supports the creation of an uncertainty index in the Supply Chain using Machine Learning techniques, and doing an curricular internship at Bosch Car Multimedia.",
+  "projectHeading": "Recent Projects",
+  "gitHubLink": "https://api.github.com/users/",
+  "resume": "https://drive.google.com/file/d/1VZxSyKuQ5PNs2dn0L9S0IV4n1CLEahcJ/view?usp=sharing",
+  "gitHubUsername": "joanafonsogomes",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "projectsLength": 4,
+  "showNavigationbar": true,
+  "showBlog": false
+}
